@@ -2,8 +2,7 @@
 
 *Data storytelling meets healthcare operations.*
 
-<img width="1031" alt="Screenshot 2025-06-09 at 10 22 19 AM" src="https://github.com/user-attachments/assets/bd326e17-34ef-4000-8b3f-46fe1eee5f43" /
->
+<img width="1031" alt="Orthopedics Analytics Dashboard Screenshot" src="https://github.com/user-attachments/assets/bd326e17-34ef-4000-8b3f-46fe1eee5f43" />
 
 ---
 
