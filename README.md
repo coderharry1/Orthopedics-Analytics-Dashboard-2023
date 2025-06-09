@@ -1,9 +1,9 @@
 # 🏥 Orthopedics-Analytics-Dashboard-2023
 
-# 🏥 Orthopedics-Analytics-Dashboard-2023  
 *Data storytelling meets healthcare operations.*
 
-![Dashboard Preview](./dashboard-preview.png)
+![Dashboard Preview](<img width="1031" alt="Screenshot 2025-06-09 at 10 22 19 AM" src="https://github.com/user-attachments/assets/bd326e17-34ef-4000-8b3f-46fe1eee5f43" />
+)
 
 ---
 
