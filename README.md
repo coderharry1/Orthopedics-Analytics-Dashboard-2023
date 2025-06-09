@@ -86,7 +86,7 @@ Key metrics and filters allow teams to:
 
 ## 🤝 Let’s Connect
 
-I'm currently open to **data analyst full-time roles where I can blend analytical rigour with human-centered thinking.  
+I'm currently open to data analyst full-time roles where I can blend analytical rigour with human-centered thinking.  
 📫 haricap273@gmail.com | [LinkedIn](https://www.linkedin.com/in/harishkds/)
 
 ---
